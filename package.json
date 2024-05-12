@@ -1,0 +1,22 @@
+{
+  "name": "nodewithmongo",
+  "version": "1.0.0",
+  "description": "connection with mongodb project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shorifuldev/crud_Node_Mongo.git"
+  },
+  "keywords": [
+    "iSoft"
+  ],
+  "author": "Shariful islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shorifuldev/crud_Node_Mongo/issues"
+  },
+  "homepage": "https://github.com/shorifuldev/crud_Node_Mongo#readme"
+}
