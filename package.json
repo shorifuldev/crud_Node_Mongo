@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shorifuldev/crud_Node_Mongo/issues"
   },
-  "homepage": "https://github.com/shorifuldev/crud_Node_Mongo#readme"
+  "homepage": "https://github.com/shorifuldev/crud_Node_Mongo#readme",
+  "dependencies": {
+    "mongodb": "^6.6.1"
+  }
 }
