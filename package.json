@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/shorifuldev/crud_Node_Mongo#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "mongodb": "^6.6.1"
   }
 }
